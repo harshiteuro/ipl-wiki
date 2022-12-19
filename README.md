@@ -1,4 +1,4 @@
-STEPS TO LAUNCH IPL-WIKI
+STEPS TO LAUNCH IPL-WIKI (ADDED THE SCRIPT LOGIC IN INDEX.PHP)
 
 STEP-1
 clone or download the zip file of ipl-wiki with the given link-https://github.com/harshiteuro/ipl-wiki
@@ -33,7 +33,7 @@ wfLoadExtension( 'PageForms' );
 
 STEP-9
 go to c/xampp/htdocs/ipl-wiki/maintenance in command-prompt then run the following command 
-php update.php
+-- php update.php --
 This includes all the cargo files in the database.
 For checking the databse you can go to localhost then go to phpMyAdmin.
 
