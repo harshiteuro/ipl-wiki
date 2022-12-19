@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar",
+			"HairyFotr"
+		]
+	},
+	"pageforms-desc": "Obrazci za ustvarjanje in urejanje viki strani",
+	"pf_createtemplate_connectingproperty": "Ime lastnosti za povezovanje polj te predloge s preostalo stranjo:",
+	"pf_createtemplate_sectionsformat": "Razdelki",
+	"pf_forminputs_checkboxes_select_all": "Izberi vse",
+	"pf_createform_add": "Dodaj",
+	"pf_createform_pagesection": "Razdelek strani:",
+	"formedit": "Uredi z obrazcem",
+	"pf-formedit-donotuseform": "Ustvarite stran brez obrazca.",
+	"pf_formedit_altformsonly": "Prosimo, izberite enega od naslednjih obrazcev za vključitev te strani:",
+	"pf_formedit_none": "Nič/neznano",
+	"pf_autoedit_anoneditwarning": "Opozorilo: Niste prijavljeni. V zgodovino urejanja te strani se bo zapisal vaš IP-naslov.",
+	"pf-pageschemas-header": "Obrazec",
+	"pf-pageschemas-includefreetextinput": "Vključi vnos prostega besedila",
+	"pf-pageschemas-freetextlabel": "Oznaka prostega besedila:",
+	"pf-pageschemas-templatedetails": "Podrobnosti za predlogo v obrazcu",
+	"pf-pageschemas-templatedetailslabel": "Naslednja polja so uporabna, če obstaja več primerkov te predloge.",
+	"pf-pageschemas-usetooltip": "Prikaži opis kot pojavni namig",
+	"right-viewedittab": "Ogled zavihka »{{int:edit}}« za strani, ki jih lahko urejate z obrazcem",
+	"right-editrestrictedfields": "Urejanje zaklenjenih polj obrazcev",
+	"action-editrestrictedfields": "urejati zaklenjenih polj obrazcev",
+	"pf-maps-enteraddress": "Tukaj vnesite naslov",
+	"pf-maps-lookupcoordinates": "Izračunaj koordinate z uporabo naslova",
+	"pf-datepicker-close": "Zapri"
+}

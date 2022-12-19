@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"cargo-viewdata-offset": "Zamik:",
+	"cargo-viewdata-format": "Oblika:",
+	"cargo-viewdata-defaultformat": "Privzeto",
+	"cargo-cargotables-action-deletereplacement": "Izbriši",
+	"cargo-cargotables-action-delete": "Izbriši",
+	"cargo-pagevalues-tablevalues": "Vrednosti »$1«",
+	"cargo-drilldown-filename": "Ime datoteke",
+	"cargo-gantt-days": "Dnevi",
+	"cargo-gantt-months": "Meseci",
+	"cargo-gantt-years": "Leta"
+}
